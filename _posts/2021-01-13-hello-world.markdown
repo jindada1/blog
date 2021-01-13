@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Rest From Work
+title: Hello World
 date: 2021-01-13 12:02:20 +0300
 img: mac.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
