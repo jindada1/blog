@@ -2,7 +2,7 @@
 layout: post
 title: How I Rest From Work
 date: 2021-01-13 12:02:20 +0300
-img: i-rest.jpg # Add image post (optional)
+img: mac.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
 ---
 
