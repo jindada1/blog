@@ -23,7 +23,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
-# markdown: maruku
+markdown: rdiscount
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
